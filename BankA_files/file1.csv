@@ -1,0 +1,13 @@
+Amount,Date,Check #,Description
+"$150.43", 01/04/2021,7777,Transaction 1
+"$700.25",01/05/2021,,Transaction 2
+"-$1,303.97",01/06/2021,,Transaction 3
+"$46.78",01/07/2021,,Transaction 4
+"$816.87",01/08/2021,,Transaction 5
+"-$1,002.53",01/11/2021,1934,Transaction 6
+"$532.22",01/12/2021,7307,Transaction 7
+"-$704.59",01/13/2021,1352,Transaction 8
+"$98.04", 01/14/2021,,Transaction 9
+"-$204.56",01/15/2021,,Transaction 10
+"$1,056.27",01/25/2021,,Transaction 11
+"$550.10",01/26/2021,,Transaction 12
